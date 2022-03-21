@@ -1,0 +1,3633 @@
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 5
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 5
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 5
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(v, (Value 20))
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+new(v, (Value 20))
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(Ref(int)) a
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+new(a, v)
+print(a);
+print(v);
+Ref(Ref(int)) a
+
+SymTable
+
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+new(a, v)
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+new(a, v)
+
+SymTable
+
+a : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+print(v);
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+Ref(2, Ref(int))
+Ref(1, int)
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)

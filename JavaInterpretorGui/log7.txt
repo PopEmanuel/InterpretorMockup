@@ -1,0 +1,315 @@
+
+Program State number 1
+ExeStack
+Ref(Ref(int)) u
+new(v, (Value 20))
+new(u, v)
+new(v, (Value 30))
+print(u);
+Ref(int) v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(Ref(int)) u
+new(v, (Value 20))
+new(u, v)
+new(v, (Value 30))
+print(u);
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(v, (Value 20))
+new(u, v)
+new(v, (Value 30))
+print(u);
+Ref(Ref(int)) u
+
+SymTable
+
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(v, (Value 20))
+new(u, v)
+new(v, (Value 30))
+print(u);
+
+SymTable
+
+u : Ref(0, Ref(int))
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(u, v)
+new(v, (Value 30))
+print(u);
+new(v, (Value 20))
+
+SymTable
+
+u : Ref(0, Ref(int))
+v : Ref(0, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(u, v)
+new(v, (Value 30))
+print(u);
+
+SymTable
+
+u : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+new(v, (Value 30))
+print(u);
+new(u, v)
+
+SymTable
+
+u : Ref(0, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+
+Program State number 1
+ExeStack
+new(v, (Value 30))
+print(u);
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+print(u);
+new(v, (Value 30))
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(1, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+
+Program State number 1
+ExeStack
+print(u);
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+20
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+20
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+20
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+20
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+u : Ref(2, Ref(int))
+v : Ref(3, int)
+
+Output
+
+20
+
+FileTable
+
+
+HeapTable
+
+1 : 20
+2 : Ref(1, int)
+3 : 30

@@ -1,0 +1,38 @@
+
+Program State number 1
+ExeStack
+a=(Value 3);
+while(a>(Value 0)) do { a=a - (Value 1); }
+print(a);
+int a
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+a=(Value 3);
+while(a>(Value 0)) do { a=a - (Value 1); }
+print(a);
+
+SymTable
+
+a : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+

@@ -1,0 +1,8516 @@
+
+Program State number 9
+ExeStack
+int v
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 9
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 10
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 10
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 10
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 10
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 9
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 9
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 9
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 10
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+int v
+
+SymTable
+
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+Ref(int) a
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+Ref(int) a
+
+SymTable
+
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+v=(Value 10);
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+v=(Value 10);
+
+SymTable
+
+a : Ref(0, int)
+v : 0
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+new(a, (Value 22))
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+new(a, (Value 22))
+
+SymTable
+
+a : Ref(0, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+
+Program State number 1
+ExeStack
+fork()
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+fork()
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+Replace a with (Value 30)
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+Replace a with (Value 30)
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+
+FileTable
+
+
+HeapTable
+
+1 : 22
+
+Program State number 1
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+v=(Value 32);
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+v=(Value 32);
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(v);
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+print(v);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+print(a);
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 1
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 10
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
+
+Program State number 2
+ExeStack
+
+SymTable
+
+a : Ref(1, int)
+v : 32
+
+Output
+
+10
+30
+32
+30
+
+FileTable
+
+
+HeapTable
+
+1 : 30
